@@ -1,0 +1,71 @@
+/* body {
+    background-color: rgb(56, 42, 49);
+}
+h1{
+    color: red;
+}
+
+p{
+    color: #ffff00;
+}
+
+button{
+    color: rgb(255, 0, 0);
+    background-color: black;
+} */
+
+#h1{
+    color: green;
+    text-align: center;
+    text-decoration:  red dotted underline;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+ #h2{
+    font-weight: normal;
+ }
+button{
+    color: brown;
+}
+
+#one{
+    color: blueviolet;
+}
+#two{
+    color: brown;
+}
+#three{
+    color: cadetblue;
+}
+.classfour{
+    color: chocolate;
+}
+
+#pid{
+    color: rgb(43, 220, 226);
+}
+
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+}
+
+#p2{
+    text-align: start;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
